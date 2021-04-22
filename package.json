@@ -1,0 +1,19 @@
+{
+  "name": "janus",
+  "version": "1.0.0",
+  "description": "Calendars events synchronization tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logical-luke/janus.git"
+  },
+  "author": "Logical Luke <luke@logical-luke.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/logical-luke/janus/issues"
+  },
+  "homepage": "https://github.com/logical-luke/janus#readme"
+}
